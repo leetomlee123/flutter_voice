@@ -2,11 +2,10 @@
 flutter开发的有声小说app
 
 ## 整体格局仿照Spotify
-![图片]（https://github.com/leetomlee123/flutter_voice/assets/19498940/eca8a4b9-a35a-4696-af73-7e3d8276c9c8）
-![image](https://github.com/leetomlee123/flutter_voice/assets/19498940/a2ce31b1-dce6-43fd-9f97-87b820e39dbc)
-![上传中image.png...]()
-![上传中image.png...]()
-
+![1709803962798.png]（https://img2.imgtp.com/2024/03/07/dj8Rca5p.png）
+![1709803968403.png](https://img2.imgtp.com/2024/03/07/7yb1h9bA.png)
+![1709803956197.png]（https://img2.imgtp.com/2024/03/07/2WdGoVBw.png）
+![1709803944969.png](https://img2.imgtp.com/2024/03/07/JL4ZRYqm.png)
 ## 体验链接
 https://www.123pan.com/s/XiuiVv-61jVv.html
 
