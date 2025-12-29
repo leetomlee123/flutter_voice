@@ -4,7 +4,7 @@ Flutter开发的有声小说App - 畅听世界，随心阅读
 
 📱 应用体验
 
-立即下载体验：[https://www.123pan.com/s/XiuiVv-61jVv.html](https://files.colors.nyc.mn/share/rnzqBsQa)  
+立即下载体验：https://files.colors.nyc.mn/share/rnzqBsQa
 在线演示：https://reader.colors.nyc.mn/
 
 🎯 SEO优化描述
@@ -106,6 +106,6 @@ v2.0.0 (2024-02-15)
 用户反馈: 应用内反馈入口
 
 立即下载体验，开启您的有声阅读之旅！  
-[https://www.123pan.com/s/XiuiVv-61jVv.html](https://files.colors.nyc.mn/share/rnzqBsQa)
+https://files.colors.nyc.mn/share/rnzqBsQa
 
 Tags: #Flutter开发 #有声小说 #移动应用 #iOS安卓 #听书App #音频播放 #阅读器 #跨平台开发
